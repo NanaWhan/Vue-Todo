@@ -3,7 +3,10 @@
   <header>
     <nav class="container">
       <div class="branding">
-        <img src="../assets/file.png" alt="" />
+        <RouterLink to="/">
+          <img src="../assets/file.png" alt="" />
+        </RouterLink>
+        <!-- <img src="../assets/file.png" alt="" href="/" /> -->
         <h1>My Todos</h1>
       </div>
       <ul class="nav-routes">
