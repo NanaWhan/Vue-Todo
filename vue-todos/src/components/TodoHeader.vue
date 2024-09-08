@@ -3,7 +3,7 @@
   <header>
     <nav class="container">
       <div class="branding">
-        <img src="../assets/Vue_Logo_Black.png" alt="" />
+        <img src="../assets/file.png" alt="" />
         <h1>My Todos</h1>
       </div>
       <ul class="nav-routes">
